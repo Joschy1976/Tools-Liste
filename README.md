@@ -2,7 +2,7 @@
 
 ## Documentation
 
-### Sven Janrschke Ressources
+### Sven Janorschke Ressources
 
 [mdn](https://developer.mozilla.org/en-US/)  
 [w3.org](https://www.w3.org/)  
